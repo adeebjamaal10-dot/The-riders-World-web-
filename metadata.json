@@ -1,0 +1,6 @@
+{
+  "name": "The Global Horse Atlas",
+  "description": "The International Encyclopedia of Horse Breeds & Equestrian Heritage. A world-class educational resource documenting equine diversity, geographic origins, and horsemanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
